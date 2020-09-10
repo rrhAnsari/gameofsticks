@@ -1,1 +1,1 @@
-# gameofsticks
+# GameOfSticks
